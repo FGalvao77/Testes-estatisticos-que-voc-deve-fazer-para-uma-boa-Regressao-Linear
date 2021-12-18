@@ -1,0 +1,1 @@
+# Testes-estatisticos-que-voc-deve-fazer-para-uma-boa-Regressao-Linear
